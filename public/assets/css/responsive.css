@@ -1,0 +1,941 @@
+@media (max-width: 1024px) {
+  .white_2 {
+    padding: 70px;
+    text-align: center;
+  }
+  .fasq-main {
+    padding-bottom: 77%;
+  }
+  section.mainSec {
+    padding: 6% 0 4% 0;
+    margin: 130px 0 40px;
+  }
+  .imagename small {
+    padding: 15px 0px;
+    margin: 0;
+  }
+  .footerlinks ul li a {
+    padding: 8px 10px;
+    font-size: 20px;
+  }
+  .Banner img {
+    height: 500px;
+  }
+}
+@media (max-width: 768px) {
+    .my-heading-1 {
+    margin-left: 130px;
+}
+.panel-heading.display-table h5 {
+    font-size: 15px;
+}
+    .my-imgs img {
+    margin: 0px 10px;
+    width: 95%;
+}
+.main-box {
+    height: 175px;
+}
+h4.panel-title.display-td {
+    font-size: 15px;
+}
+section.checkout-section h3 {
+    font-size: 20px;
+    text-align: center;
+    margin: 3px 0 10px;
+}
+  .white_2 {
+    padding: 50px;
+  }
+  .footerlinks ul li a {
+    padding: 5px 10px;
+  }
+header {
+    height: auto;
+    padding: 1%;
+}
+  .banner_1 img {
+    height: 620px;
+  }
+  section.mainSec {
+    padding: 6% 0 4% 0;
+    margin: 100px 0 169px;
+  }
+
+  .new_head {
+    margin: 21px 0px 0 75px;
+    width: 82%;
+  }
+  .imagename small {
+    font-size: 22px;
+    padding: 14px 0px;
+    margin: 0;
+  }
+  footer {
+    padding: 4% 0 4% 0;
+  }
+  .imagename p {
+    text-align: left;
+    width: 100%;
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .imagename img {
+    height: 450px;
+  }
+  .FormMain {
+    width: 85%;
+    margin: 0px auto;
+  }
+}
+@media (max-width: 540px) {
+    header {
+    height: auto;
+    padding: 1%;
+}
+    
+        .btn-link {
+    font-weight: 400;
+    color: black;
+    position: relative;
+    top: -63px;
+    left: 280px;
+    font-size: 15px;
+    line-height: 10px;
+    text-decoration: none;
+}
+th.border-0.sorting {
+    font-size: 14px;
+}
+
+    button.btn.btn-pill.btn-outline-success {
+    width: 100%;
+}
+
+
+  .white_2 {
+    padding: 20px !important;
+  }
+
+  .banner_1 img {
+    height: 400px;
+  }
+  .new_head {
+    margin: 0;
+    width: 100%;
+    padding: 4%;
+  }
+
+  .mobilecontainer span {
+    margin-top: -50px;
+  }
+
+  section.mainSec {
+    margin: 110px 0 30px;
+  }
+  .ownname span {
+    font-size: 25px;
+    margin: 10px 0px 0 0px;
+    padding: 10px 0px 0px;
+  }
+  .imagename small {
+    font-size: 15px;
+    padding: 13px 0px;
+    margin: 0;
+  }
+  .imagename p {
+    font-size: 13px;
+    margin: 11px 0 0;
+    width: 100%;
+    text-align: center;
+  }
+  .Whitemain {
+    padding: 0% 0 1px 0;
+  }
+  .footerlinks ul li a {
+    padding: 3px 4px;
+    font-size: 13px;
+    line-height: 10px;
+  }
+  .copyright span {
+    font-size: 15px;
+    margin: 10px 0 0;
+  }
+  footer {
+    padding: 5% 0px 6% 0;
+    position: relative;
+  }
+  .Banner img {
+    height: 250px;
+  }
+  .res-data {
+    padding: 3%;
+  }
+  .imagename img {
+    height: 250px;
+    margin: 0;
+  }
+  .form-label {
+    font-weight: 600;
+    font-size: 16px;
+    margin: 0px 0 6px;
+  }
+  .FormMain {
+    width: 100%;
+    margin: 0px auto 40px;
+    padding: 4%;
+    height: 250px;
+  }
+  a.new_a {
+    font-size: 15px;
+    margin: 12px 0 0;
+  }
+  .backbtn a {
+    padding: 7px 38px;
+    font-size: 15px;
+    margin: 0;
+  }
+  .new-imagename {
+    padding: 13px 0px 9px;
+    margin: 0px auto 20px;
+    display: table;
+    width: 80%;
+    height: auto;
+  }
+  .new-map-img-name p {
+    font-size: 15px;
+    margin: 10px 60px 10px;
+  }
+  .new-imagename .text {
+    font-size: 12px;
+    left: 54%;
+  }
+  .new-imagename .overlay {
+    height: 40px;
+  }
+  .new-imagename img {
+    width: 100%;
+    height: 300px;
+  }
+  .backbtn .btn-primary {
+    padding: 7px 54px;
+    font-size: 15px;
+  }
+  .form_2 {
+    height: inherit;
+  }
+  .Searchbox ul li a {
+    padding: 7px 21px;
+    font-size: 14px;
+    margin: 0 0 20px;
+  }
+  .form_height {
+    height: 425px;
+  }
+      .Item {
+    margin: 5px 0;}
+    
+    /*//////////////////////////////*/
+.checkout-section .ownname span {
+    font-size: 23px;
+    margin: 0px 0 15px 0;
+}
+section.checkout-section .Whitemain {
+    padding: 20px;
+}
+.main-box {
+    box-shadow: rgb(50 50 93 / 25%) 0px 6px 12px -2px, rgb(0 0 0 / 30%) 0px 3px 7px -3px;
+    height: 280px;
+    margin: 0px 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.checkout-section h3 {
+    font-weight: 700;
+    font-size: 22px;
+    margin: 10px 0 10px;
+}
+  .my-imgs img {
+        margin: 0px auto;
+        width: 78%;
+        display: table;
+    }
+    h4.panel-title.display-td {
+    font-size: 16px;
+}
+  /*//////////////////////////////*/
+.checkout-section .ownname span {
+    font-size: 20px;
+    margin: 10px 0 13px 10px;
+}
+section.checkout-section .Whitemain {
+    padding: 20px;
+}
+.main-box {
+    box-shadow: rgb(50 50 93 / 25%) 0px 6px 12px -2px, rgb(0 0 0 / 30%) 0px 3px 7px -3px;
+    height: 250px;
+    margin: 0px 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.checkout-section h3 {
+    font-weight: 700;
+    font-size: 20px;
+}
+  .my-imgs img {
+        margin: 0px auto;
+        width: 85%;
+        display: table;
+    }
+    h4.panel-title.display-td {
+    font-size: 15px;
+}
+.my-heading-1 {
+    margin-left: 20px;
+}
+button.btn.btn-primary.btn-lg.btn-block {
+    /* display: block; */
+    width: 100%;
+    height: 41px;
+    font-size: 17px;
+    padding: 0px 30px 0 30px;
+}
+.visa-cards ul li {
+    margin: 10px 28px;
+}
+.panel-heading.display-table h5 {
+    font-size: 14px;
+}
+section.checkout-section h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.my-box {
+    margin: 10px 0 10px;
+}
+
+.FormMain h4 {
+    font-size: 15px;
+    margin: 14px 0 0;
+}
+}
+@media (max-width: 425px) {
+    header {
+    height: auto;
+    padding: 1%;
+}
+    .FormMain h4 {
+    font-size: 13px;
+    margin: 6px 0 0;
+}
+    /*///*/
+th.border-0.sorting {
+    font-size: 13px;
+}
+
+    button.btn.btn-pill.btn-outline-success {
+    width: 100%;
+}
+
+
+    .Item {
+    margin: 5px 0;
+}
+  .white_2 {
+    padding: 16px !important;
+  }
+  .fasq-main {
+    padding-bottom: 56%;
+  }
+
+  .banner_1 img {
+    height: 300px;
+  }
+  .new_head {
+    margin: 0;
+    width: 100%;
+    padding: 4%;
+  }
+
+  .mobilecontainer span {
+    margin-top: -50px;
+  }
+
+  section.mainSec {
+    margin: 140px 0 54px;
+  }
+  .ownname span {
+    font-size: 20px;
+    margin: 10px 0px 6px 0px;
+    padding: 12px 0px 0px;
+  }
+  .imagename small {
+    font-size: 13px;
+    padding: 9px 0px;
+    margin: 0;
+  }
+  .imagename p {
+    font-size: 12px;
+    margin: 11px 0 0;
+    width: 100%;
+    text-align: center;
+  }
+  .Whitemain {
+    padding: 0% 0 20px 0;
+  }
+  .footerlinks ul li a {
+    padding: 3px 5px;
+    font-size: 12px;
+    line-height: 10px;
+  }
+  .copyright span {
+    font-size: 14px;
+    margin: 10px 0 0;
+  }
+  footer {
+    padding: 2% 0px 3% 0;
+    position: relative;
+  }
+  .Banner img {
+    height: 220px;
+  }
+  .res-data {
+    padding: 3%;
+  }
+  .imagename img {
+    height: 230px;
+    margin: 0;
+  }
+  .form-label {
+    font-weight: 600;
+    font-size: 15px;
+    margin: 0;
+  }
+  .FormMain {
+    width: 100%;
+    margin: 0px auto 10px;
+    padding: 4%;
+    height: 260px;
+  }
+  a.new_a {
+    font-size: 13px;
+    margin: 8px 0 0;
+  }
+  .backbtn a {
+    padding: 7px 34px;
+    font-size: 14px;
+    margin: 0 0 10px;
+  }
+  .new-imagename {
+    padding: 13px 0px 9px;
+    margin: 0px auto 20px;
+    display: table;
+    width: 80%;
+    height: auto;
+  }
+  .new-map-img-name p {
+    font-size: 15px;
+    margin: 10px 30px 10px;
+  }
+  .new-imagename .text {
+    font-size: 12px;
+    left: 54%;
+  }
+  .new-imagename .overlay {
+    height: 40px;
+  }
+  .new-imagename img {
+    width: 100%;
+    height: 300px;
+  }
+  .backbtn .btn-primary {
+    padding: 7px 54px;
+    font-size: 14px;
+    margin: 0;
+    float: none;
+  }
+  .form_2 {
+    height: inherit;
+  }
+  .Searchbox ul li a {
+    padding: 5px 17px;
+    font-size: 12px;
+  }
+  .form_height {
+    height: 430px;
+  }
+  /*//////////////////////////////*/
+.checkout-section .ownname span {
+    font-size: 20px;
+    margin: 0px 0 13px 0;
+}
+section.checkout-section .Whitemain {
+    padding: 20px;
+}
+.main-box {
+    box-shadow: rgb(50 50 93 / 25%) 0px 6px 12px -2px, rgb(0 0 0 / 30%) 0px 3px 7px -3px;
+    height: 250px;
+    margin: 0px 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.checkout-section h3 {
+    font-weight: 700;
+    font-size: 20px;
+}
+  .my-imgs img {
+        margin: 0px auto;
+        width: 85%;
+        display: table;
+    }
+    h4.panel-title.display-td {
+    font-size: 15px;
+}
+.my-heading-1 {
+    margin-left: 20px;
+}
+button.btn.btn-primary.btn-lg.btn-block {
+    /* display: block; */
+    width: 100%;
+    height: 36px;
+    font-size: 15px;
+    padding: 0px 30px 0 30px;
+    margin: 10px 0 10px;
+}
+.visa-cards ul li {
+    margin: 10px 14px;
+}
+.panel-heading.display-table h5 {
+    font-size: 14px;
+}
+section.checkout-section h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.my-box {
+    margin: 5px 0 10px;
+}
+
+    .btn-link {
+    font-weight: 400;
+    color: black;
+    position: relative;
+    top: -63px;
+    left: 179px;
+    font-size: 14px;
+    line-height: 10px;
+    text-decoration: none;
+}
+}
+@media (max-width: 375px) {
+    header {
+    height: auto;
+    padding: 1%;
+}
+    .btn-link {
+    font-weight: 400;
+    color: black;
+    position: relative;
+    top: -63px;
+    left: 160px;
+    font-size: 13px;
+    line-height: 10px;
+    text-decoration: none;
+}
+    button.btn.btn-pill.btn-outline-success {
+    width: 100%;
+}
+
+/**/
+/*///*/
+th.border-0.sorting {
+    font-size: 13px;
+}
+
+
+    /*//////////////////*/
+.my-heading-1 {
+    margin-left: 20px;
+}
+button.btn.btn-primary.btn-lg.btn-block {
+    /* display: block; */
+    width: 100%;
+    height: 36px;
+    font-size: 15px;
+    padding: 0px 20px 0 20px;
+    margin: 10px 0 10px;
+}
+.visa-cards ul li {
+    margin: 10px 10px;
+}
+.panel-heading.display-table h5 {
+    font-size: 14px;
+}
+section.checkout-section h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.my-box {
+    margin: 0px 0 10px;
+}
+
+/*//*/
+  .white_2 {
+    padding: 17px !important;
+  }
+
+  .fasq-main {
+    padding-bottom: 48%;
+  }
+  .banner_1 img {
+    height: 260px;
+  }
+  .new_head {
+    margin: 0;
+    width: 100%;
+    padding: 4%;
+  }
+
+  .mobilecontainer span {
+    margin-top: -50px;
+  }
+
+  section.mainSec {
+    margin: 120px 0 35px;
+  }
+  .ownname span {
+    font-size: 20px;
+    margin: 10px 0px 6px 0px;
+    padding: 13px 0px 0px;
+  }
+  .imagename small {
+    font-size: 12px;
+    padding: 9px 0px;
+    margin: 0;
+  }
+  .imagename p {
+    font-size: 11px;
+    margin: 11px 0 0;
+    width: 100%;
+    text-align: center;
+  }
+  .Whitemain {
+    padding: 0% 0px 2px 0;
+  }
+  .footerlinks ul li a {
+    padding: 3px 3px;
+    font-size: 11px;
+    line-height: 10px;
+  }
+  .copyright span {
+    font-size: 12px;
+    margin: 10px 0 0;
+  }
+  footer {
+    padding: 2% 0px 3% 0;
+    position: relative;
+  }
+  .Banner img {
+    height: 200px;
+  }
+  .res-data {
+    padding: 4%;
+  }
+  .imagename img {
+    height: 200px;
+    margin: 0;
+  }
+  .form-label {
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0;
+  }
+  .FormMain {
+    width: 100%;
+    margin: 0px auto 10px;
+    padding: 4%;
+    height: 260px;
+  }
+  a.new_a {
+    font-size: 12px;
+    margin: 8px 0 0;
+  }
+  .backbtn a {
+    padding: 5px 29px;
+    font-size: 13px;
+    margin: 0 auto 10px;
+    display: table;
+  }
+  .new-imagename {
+    padding: 13px 0px 9px;
+    margin: 0px auto 20px;
+    display: table;
+    width: 80%;
+    height: auto;
+  }
+  .new-map-img-name p {
+    font-size: 13px;
+    margin: 10px 30px 10px;
+  }
+  .new-imagename .text {
+    font-size: 12px;
+    left: 54%;
+  }
+  .new-imagename .overlay {
+    height: 40px;
+  }
+
+  .backbtn .btn-primary {
+    padding: 3px 49px;
+    font-size: 13px;
+    margin: 0;
+    float: none;
+  }
+  .form_2 {
+    height: inherit;
+  }
+  .Searchbox ul li a {
+    padding: 5px 17px;
+    font-size: 12px;
+  }
+  .form_height {
+    height: 440px;
+  }
+  .form_2 footer#fat-footer {
+    position: inherit;
+  }
+    /*//////////////////*/
+  .Item {
+    margin: 5px 0;
+}
+/*//////////////////////////////*/
+.checkout-section .ownname span {
+    font-size: 20px;
+    margin: 0px 0 13px 0;
+}
+section.checkout-section .Whitemain {
+    padding: 20px;
+}
+.main-box {
+    box-shadow: rgb(50 50 93 / 25%) 0px 6px 12px -2px, rgb(0 0 0 / 30%) 0px 3px 7px -3px;
+    height: 250px;
+    margin: 0px 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.checkout-section h3 {
+    font-weight: 700;
+    font-size: 20px;
+}
+  .my-imgs img {
+        margin: 0px auto;
+        width: 85%;
+        display: table;
+    }
+    h4.panel-title.display-td {
+    font-size: 15px;
+}
+.FormMain h4 {
+    font-size: 13px;
+    margin: 4px 0 0;
+}
+}
+@media (max-width: 360px) {
+    header {
+    height: auto;
+    padding: 1%;
+}
+    .FormMain h4 {
+    font-size: 13px;
+    margin: 4px 0 0;
+}
+  .banner_1 img {
+    height: 260px;
+  }
+  .new_head {
+    margin: 0;
+    width: 100%;
+    padding: 4%;
+  }
+
+  .mobilecontainer span {
+    margin-top: -50px;
+  }
+
+  section.mainSec {
+    margin: 130px 0 10px;
+  }
+  .ownname span {
+    font-size: 20px;
+    margin: 7px 0 0px 0;
+    padding: 15px 0px 10px;
+  }
+  .imagename small {
+    font-size: 11px;
+    padding: 9px 0px;
+    margin: 0;
+  }
+  .imagename p {
+    font-size: 11px;
+    margin: 11px 0 0;
+    width: 100%;
+    text-align: center;
+  }
+  .Whitemain {
+    padding: 0% 0 1px 0;
+  }
+  .footerlinks ul li a {
+    padding: 3px 0px;
+    font-size: 11px;
+    line-height: 10px;
+  }
+  .copyright span {
+    font-size: 12px;
+    margin: 10px 0 0;
+  }
+  footer {
+    padding: 2% 0px 3% 0;
+  }
+
+  .white_2 {
+    padding: 16px;
+  }
+  .Banner img {
+    height: 200px;
+  }
+  .res-data {
+    padding: 4%;
+  }
+  .imagename img {
+    height: 200px;
+    margin: 0;
+  }
+  .form-label {
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0;
+  }
+  .FormMain {
+    width: 100%;
+    margin: 0px auto 10px;
+    padding: 4%;
+    height: 260px;
+  }
+  a.new_a {
+    font-size: 12px;
+    margin: 8px 0 0;
+  }
+  .new-imagename {
+    padding: 13px 0px 9px;
+    margin: 0px auto 20px;
+    display: table;
+    width: 80%;
+    height: auto;
+  }
+  .new-map-img-name p {
+    font-size: 13px;
+    margin: 10px 30px 10px;
+  }
+  .new-imagename .text {
+    font-size: 12px;
+    left: 54%;
+  }
+  .new-imagename .overlay {
+    height: 40px;
+  }
+  .form_2 #fat-footer {
+    position: relative;
+  }
+  .backbtn .btn-primary {
+    padding: 3px 78px;
+    font-size: 13px;
+    margin: 0;
+    float: none;
+  }
+  .backbtn a {
+    padding: 5px 29px;
+    font-size: 13px;
+    margin: 0 auto 10px;
+    display: table;
+  }
+  .form_2 {
+    height: inherit;
+  }
+  .Searchbox ul li a {
+    padding: 5px 17px;
+    font-size: 12px;
+  }
+  .form_height {
+    height: 440px;
+  }
+  /*//////////////////*/
+  .Item {
+    margin: 5px 0;
+}
+/*//////////////////////////////*/
+.checkout-section .ownname span {
+    font-size: 20px;
+    margin: 0px 0 13px 0;
+}
+section.checkout-section .Whitemain {
+    padding: 20px;
+}
+.main-box {
+    box-shadow: rgb(50 50 93 / 25%) 0px 6px 12px -2px, rgb(0 0 0 / 30%) 0px 3px 7px -3px;
+    height: 250px;
+    margin: 0px 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.checkout-section h3 {
+    font-weight: 700;
+    font-size: 17px;
+}
+  .my-imgs img {
+        margin: 0px auto;
+        width: 85%;
+        display: table;
+    }
+    h4.panel-title.display-td {
+    font-size: 15px;
+}
+/*//////////////////*/
+.my-heading-1 {
+    margin-left: 20px;
+}
+button.btn.btn-primary.btn-lg.btn-block {
+    /* display: block; */
+    width: 100%;
+    height: 36px;
+    font-size: 15px;
+    padding: 0px 10px 0 10px;
+    margin: 10px 0 10px;
+}
+.visa-cards ul li {
+    margin: 10px 2px;
+}
+.panel-heading.display-table h5 {
+    font-size: 14px;
+}
+button.btn.btn-pill.btn-outline-success {
+    width: 100%;
+}
+/*///*/
+th.border-0.sorting {
+    font-size: 11px;
+}
+.btn-link {
+    position: relative;
+    top: -63px;
+    left: 125px;
+    line-height: 6px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+}
